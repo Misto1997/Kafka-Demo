@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 This repository contains `Kafka Producer and Consumer` implementation using plain `Maven` project with `Java`.
 
 ## Note
@@ -19,4 +19,4 @@ I have not used `Spring Boot` here intentionally to reduce complexity and to mak
 
 ## Reference
 
-1. https://kafka.apache.org/quickstart
+https://kafka.apache.org/quickstart
