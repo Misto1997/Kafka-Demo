@@ -1,10 +1,10 @@
-## Introduction
-This repository contains `Kafka Producer and Consumer` implementation using plain `Maven` project using `Java`.
+# Introduction
+This repository contains `Kafka Producer and Consumer` implementation using plain `Maven` project with `Java`.
 
-# Note
+## Note
 I have not used `Spring Boot` here intentionally to reduce complexity and to make it easy to understand for beginners.
 
-# Run guide
+## Run guide
 1. Install Kafka binary from here: `https://kafka.apache.org/downloads` and untar/unzip it.
 2. Open terminal and goto kafka directory. e.g /Downloads/kafka_2.12-3.2.0
 3. Start `Zookeeper` with this command: ./bin/zookeeper-server-start.sh  /config/zookeeper.properties
@@ -17,6 +17,6 @@ I have not used `Spring Boot` here intentionally to reduce complexity and to mak
 10. Tweak it as you want :)
 
 
-# Reference
+## Reference
 
 1. https://kafka.apache.org/quickstart
